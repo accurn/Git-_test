@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zrz/Desktop/codex/cmake1/exchange.cpp
+exchange.h
+C:/Users/zrz/Desktop/codex/cmake1/exchange.h
+
+C:/Users/zrz/Desktop/codex/cmake1/exchange.h
+
+C:/Users/zrz/Desktop/codex/cmake1/swap.cpp
+iostream
+-
+exchange.h
+C:/Users/zrz/Desktop/codex/cmake1/exchange.h
+

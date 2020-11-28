@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\swap_test_exec.dir/objects.a
+C:\PROGRA~1\GCC_X8~1.0-R\mingw64\bin\ar.exe cr CMakeFiles\swap_test_exec.dir/objects.a @CMakeFiles\swap_test_exec.dir\objects1.rsp
+C:\PROGRA~1\GCC_X8~1.0-R\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\swap_test_exec.dir/objects.a -Wl,--no-whole-archive -o swap_test_exec.exe -Wl,--out-implib,libswap_test_exec.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\swap_test_exec.dir\linklibs.rsp

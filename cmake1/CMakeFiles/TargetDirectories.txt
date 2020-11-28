@@ -1,0 +1,3 @@
+C:/Users/zrz/Desktop/codex/cmake1/CMakeFiles/swap_test_exec.dir
+C:/Users/zrz/Desktop/codex/cmake1/CMakeFiles/edit_cache.dir
+C:/Users/zrz/Desktop/codex/cmake1/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/zrz/Desktop/codex/cmake1/build",
+  "command": "C:\\PROGRA~1\\GCC_X8~1.0-R\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\swap_test_exec.dir\\swap.cpp.obj -c C:\\Users\\zrz\\Desktop\\codex\\cmake1\\swap.cpp",
+  "file": "C:/Users/zrz/Desktop/codex/cmake1/swap.cpp"
+},
+{
+  "directory": "C:/Users/zrz/Desktop/codex/cmake1/build",
+  "command": "C:\\PROGRA~1\\GCC_X8~1.0-R\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\swap_test_exec.dir\\exchange.cpp.obj -c C:\\Users\\zrz\\Desktop\\codex\\cmake1\\exchange.cpp",
+  "file": "C:/Users/zrz/Desktop/codex/cmake1/exchange.cpp"
+}
+]
